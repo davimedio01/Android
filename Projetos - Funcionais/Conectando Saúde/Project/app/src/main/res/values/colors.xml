@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0329AF</color>
+    <color name="colorPrimaryDark">#010D5C</color>
+    <color name="colorAccent">#0A3CD3</color>
+    <color name="firstcolorback">#FFFFFF</color>
+    <color name="secondcolorback">#FFFFFF</color>
+    <color name="botaologin">#000000</color>
+    <color name="cardColor">#2649C7</color>
+</resources>

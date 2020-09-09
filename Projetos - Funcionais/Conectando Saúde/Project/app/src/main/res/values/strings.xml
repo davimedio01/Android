@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Conectando Saúde</string>
+    <string name="logo_name">Logo da Conectando Saúde</string>
+    <!--GENÉRICOS-->
+    <string name="Nome">Nome</string>
+    <string name="Sobrenome">Sobrenome</string>
+    <string name="Estado">Estado</string>
+    <string name="Cidade">Cidade</string>
+    <string name="TelefoneDDD">Telefone (com DDD)</string>
+    <string name="CPF">CPF</string>
+    <string name="Senha">Senha</string>
+    <string name="Botao_Entrar">Entrar</string>
+    <string name="Botao_Cadastrar_Info">Criar Conta</string>
+    <string name="MeusDados">Meus Dados</string>
+    <string name="SobreApp">Sobre o Aplicativo</string>
+    <string name="Telefone">Telefone</string>
+    <string name="Info_Voltar">Para voltar, pressione o botão</string>
+    <string name="Endereço">Endereço</string>
+    <string name="CEP">CEP</string>
+    <string name="Especialização">Especialização</string>
+    <string name="DataHorarioCard">DD/MM/AAAA - HH:MM</string>
+    <string name="AtendimentoPorCard">"Atendimento por: "</string>
+    <string name="NomeMedicoCard">Nome_do_Medico</string>
+    <string name="Agendado">Agendado</string>
+    <string name="AvisoCard">Aviso: cancele se não puder comparecer!</string>
+    <string name="AperteDetalhesCard">Aperte para mais detalhes!</string>
+
+    <!--CONTENT_DESCRIPTION-->
+    <!--LOGIN-->
+    <string name="CPF_Paciente_Login">Digite aqui o CPF do Paciente para Login</string>
+    <string name="Senha_Paciente_Login">Digite aqui a Senha do Paciente para Login</string>
+    <string name="Botao_Entrar_Login">Aperte aqui para verificar suas informações e entrar no aplicativo</string>
+    <string name="Ir_Tela_Cad">Não possui uma conta? Aperte aqui</string>
+
+    <!--CADASTRO-->
+    <string name="Nome_Paciente_Cad">Digite aqui o Primeiro Nome do Paciente para Cadastro</string>
+    <string name="Sobrenome_Paciente_Cad">Digite aqui o Sobrenome do Paciente para Cadastro</string>
+    <string name="CPF_Paciente_Cad">Digite aqui o CPF do Paciente para Cadastro</string>
+    <string name="Estado_Paciente_Cad">Digite aqui o Estado em que o Paciente reside para Cadastro</string>
+    <string name="Cidade_Paciente_Cad">Digite aqui a Cidade em que o Paciente reside para Cadastro</string>
+    <string name="Telefone_Paciente_Cad">Digite aqui o Telefone com DDD do Paciente para Cadastro</string>
+    <string name="Senha_Paciente_Cad">Digite aqui a Senha do Paciente para Cadastro</string>
+    <string name="Botao_Cadastrar_Confirma">Aperte aqui para verificar suas informações, cadastrar e entrar no aplicativo</string>
+    <string name="Ir_Tela_Login">Já possui uma conta? Aperte aqui</string>
+
+    <!--MAIN-->
+    <string name="Novo_Agedamento_FAB">Aperte aqui para realizar um novo agendamento de consulta</string>
+        <!--MENU_TOOLBAR-->
+        <string name="MeusDados_Description">Aperte aqui para visualizar seus dados</string>
+        <string name="SobreApp_Description">Aperte aqui para informações sobre o aplicativo</string>
+        <!--ADAPTER_PROXIMAS_CONSULTAS-->
+        <string name="CardProxConsulta">Aperte para mais detalhes sobre essa consulta</string>
+    <!--MEUS_DADOS-->
+
+    <!--SOBRE_APP-->
+    <string name="sobre_app_text">"A aplicação "Conectando Saúde" foi desenvolvida por nosso grupo de Ciências da Computação com o intuito de mesclar a interatividade e o fácil acesso para o agendamento de consultas médicas. Dessa forma, possibilita que pessoas com pouco contato à tecnologia não tenham dificuldades em quesitos como cadastro e agendamento de diferentes consultas."</string>
+
+    <!--PRIMEIRO_ESCOLHE_ESPECIALIZAÇÃO-->
+
+    <!--SEGUNDO_ESCOLHE_MÉDICO-->
+
+        <!--ADAPTER_ESCOLHE_MÉDICO-->
+
+    <!--TERCEIRO_CONFIRMA_MÉDICO-->
+
+    <!--QUATRO_ESCOLHE_DATA_HORÁRIO-->
+
+        <!--ADAPTER_ESCOLHE_HORÁRIO-->
+
+</resources>
