@@ -1,2 +1,2 @@
-# Android
-Aplicativos de treinamento e exemplos funcionais realizados em Android Studio (Java/Kotlin).
+# Conectando Saúde - V1.0
+
