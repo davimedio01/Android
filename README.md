@@ -1,2 +1,2 @@
 # Android
-Aplicativos de treinamento e exemplos funcionais realizados em Android Studio (Java/Kotlin).
+Aplicativos de treinamento/estudo e projetos funcionais realizados em Android Studio (Java/Kotlin).
